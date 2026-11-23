@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace this setup placeholder with the full public sitemap URL after GitHub Pages is published.
+Sitemap: https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/sitemap.xml
